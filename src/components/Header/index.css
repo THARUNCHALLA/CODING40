@@ -1,0 +1,8 @@
+.navContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.website_logo {
+  height: 40px;
+}

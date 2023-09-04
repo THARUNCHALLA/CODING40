@@ -1,0 +1,22 @@
+.home {
+  font-family: 'roboto';
+  font-size: 14px;
+  margin-left: 10px;
+}
+.cen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tharun {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+}
+.close {
+  align-self: flex-end;
+  margin-right: 20px;
+  cursor: pointer;
+}
